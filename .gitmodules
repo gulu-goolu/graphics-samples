@@ -1,0 +1,6 @@
+[submodule "abseil_cpp"]
+	path = third_party/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
+[submodule "glfw"]
+	path = third_party/glfw
+	url = https://github.com/glfw/glfw.git
